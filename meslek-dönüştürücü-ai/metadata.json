@@ -1,7 +1,0 @@
-{
-  "name": "Meslek Dönüştürücü AI",
-  "description": "Fotoğrafınızı yükleyin ve yapay zeka ile kendinizi farklı mesleklerde görün.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
